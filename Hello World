@@ -1,9 +1,0 @@
-package com.Maven.ProjectMaven;
-
-public class Test {
-
-	public void login(){
-		System.out.println("Logging...");
-	}
-
-}
